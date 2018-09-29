@@ -1,0 +1,15 @@
+#server:
+#  port: 8081
+#
+#person:
+#  lastName: zhangsan
+#  age: 18
+#  boss: false
+#  birth: 1998/12/12
+#  maps: {k1: v1,k2: 12,k3: jq}
+#  lists:
+#    - lisi
+#    - zhaoliu
+#  dog:
+#    name: 小狗
+#    age: 22
